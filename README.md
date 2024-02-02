@@ -12,10 +12,10 @@ This is a React.js application that predicts the nationality based on a given na
 ``open the a git bash in a new terminal.
 
 
-### Clone the git-hub repository with the command ----
-git clone https://github.com/your-username/react-nationality-predictor.git
+### Clone the git-hub repository 
+
 here it would be----  git clone https://github.com/Swati863/nationaityPredictor.git
-cd react-nationality-predictor
+cd react-nationality-predictor (to the folder you cloned the repo in )
 
 ### npm install 
 since because of the .gitignore, node_modules are not pushed in the git repo we run this command.
