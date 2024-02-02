@@ -22,11 +22,15 @@ since because of the .gitignore, node_modules are not pushed in the git repo we 
 
 
 ### `npm start`
+Visit http://localhost:3000 in your browser to view the application.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Usage
+Enter a name in the input field.
+Click the "Predict Nationality" button.
+View the predicted nationality in the result section.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Notes
+Ensure you have an active internet connection to fetch data from the Nationalize API.
+Handle errors gracefully, such as empty name inputs or API request failures.
 
 
